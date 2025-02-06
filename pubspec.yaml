@@ -1,12 +1,11 @@
 name: uuidv7
-description: A starting point for Dart libraries or applications.
+description: An implementation of uuidv7 (RFC 9562) in dart without dependencies
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/dodgog/uuidv7-dart
 
 environment:
   sdk: ^3.6.0
 
-# Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
 
